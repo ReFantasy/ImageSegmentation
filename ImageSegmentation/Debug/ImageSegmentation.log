@@ -1,0 +1,41 @@
+﻿生成启动时间为 2017/12/29 13:52:25。
+     1>项目“E:\VS2010_Code\ImageSegmentation\ImageSegmentation\ImageSegmentation.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\ImageSegmentation.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt CImgProcess.cpp
+         CImgProcess.cpp
+     1>e:\vs2010_code\imagesegmentation\imagesegmentation\cimgprocess.cpp(60): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010_code\imagesegmentation\imagesegmentation\cimgprocess.cpp(101): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010_code\imagesegmentation\imagesegmentation\cimgprocess.cpp(354): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010_code\imagesegmentation\imagesegmentation\cimgprocess.cpp(380): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010_code\imagesegmentation\imagesegmentation\cimgprocess.cpp(388): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010_code\imagesegmentation\imagesegmentation\cimgprocess.cpp(411): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vs2010_code\imagesegmentation\imagesegmentation\cimgprocess.cpp(143): warning C4715: “CImgProcess::processImage”: 不是所有的控件路径都返回值
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\VS2010_Code\ImageSegmentation\Debug\ImageSegmentation.exe" /INCREMENTAL /NOLOGO opencv_calib3d2410d.lib opencv_contrib2410d.lib opencv_core2410d.lib opencv_features2d2410d.lib opencv_flann2410d.lib opencv_gpu2410d.lib opencv_highgui2410d.lib opencv_imgproc2410d.lib opencv_legacy2410d.lib opencv_ml2410d.lib opencv_nonfree2410d.lib opencv_objdetect2410d.lib opencv_ocl2410d.lib opencv_photo2410d.lib opencv_stitching2410d.lib opencv_superres2410d.lib opencv_video2410d.lib opencv_videostab2410d.lib /MANIFEST /ManifestFile:"Debug\ImageSegmentation.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"E:\VS2010_Code\ImageSegmentation\Debug\ImageSegmentation.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\VS2010_Code\ImageSegmentation\Debug\ImageSegmentation.lib" /MACHINE:X86 Debug\ImageSegmentation.res
+         Debug\ImageSegmentation.exe.embed.manifest.res
+         Debug\CImgProcess.obj
+         Debug\CvvImage.obj
+         Debug\ImageSegmentation.obj
+         Debug\ImageSegmentationDlg.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\ImageSegmentation.exe.embed.manifest" /manifest Debug\ImageSegmentation.exe.intermediate.manifest "C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         ImageSegmentation.vcxproj -> E:\VS2010_Code\ImageSegmentation\Debug\ImageSegmentation.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\ImageSegmentation.unsuccessfulbuild”。
+         正在对“Debug\ImageSegmentation.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“E:\VS2010_Code\ImageSegmentation\ImageSegmentation\ImageSegmentation.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:10.28
